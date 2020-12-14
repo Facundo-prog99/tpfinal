@@ -1,0 +1,179 @@
+# Translation of Themes - Hello Fashion in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Hello Fashion package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-19 17:23:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Hello Fashion\n"
+
+#. Theme Name of the theme
+msgid "Hello Fashion"
+msgstr "Hello Fashion"
+
+#: functions.php:72
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Documentación: %1$sClic acá.%2$s"
+
+#: functions.php:70
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Demostración: %1$sClic acá.%2$s"
+
+#: functions.php:57
+msgid "Demo & Documentation"
+msgstr "Demo y Documentación "
+
+#: functions.php:829
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:828
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:827
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:975
+msgid "https://wordpress.org/"
+msgstr "https://es-ar.wordpress.org/"
+
+#: functions.php:801
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: functions.php:393
+msgid "This is the general sidebar layout for whole site."
+msgstr "Este es el diseño general de la barra lateral para todo el sitio."
+
+#: functions.php:392
+msgid "Default Sidebar Layout"
+msgstr "Diseño de barra lateral predeterminado"
+
+#: functions.php:365
+msgid "Post Sidebar Layout"
+msgstr "Diseño de barra lateral de entrada"
+
+#: functions.php:339
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Este es el diseño general de la barra lateral para las páginas. Podés anular el diseño de la barra lateral de una página individual en la propia página."
+
+#: functions.php:338
+msgid "Page Sidebar Layout"
+msgstr "Diseño de barra lateral de página"
+
+#: functions.php:318
+msgid "General Sidebar Layout"
+msgstr "Diseño de la barra lateral general"
+
+#: functions.php:208
+msgid "Layout Settings"
+msgstr "Ajustes de diseño"
+
+#: functions.php:551
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:164
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:163
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:142
+msgid "Primary font of the site."
+msgstr "Fuente primaria del sitio."
+
+#: functions.php:141
+msgid "Primary Font"
+msgstr "Fuente primaria"
+
+#: functions.php:90
+msgid "Appearance Settings"
+msgstr "Ajustes de apariencia"
+
+#: functions.php:186
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: functions.php:975
+msgid " Powered by %s. "
+msgstr "Desarrollado por %s"
+
+#: functions.php:973
+msgid " Hello Fashion | Developed By "
+msgstr " Hello Fashion | Desarrollado por "
+
+#: functions.php:550
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "En tus vacaciones encontrá grandes aventuras y actividades alrededor del mundo."
+
+#: functions.php:549
+msgid "Find Your Best Holiday"
+msgstr "Encontrá tus mejores vacaciones"
+
+#: functions.php:366
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Este es el diseño general de la barra lateral para las publicaciones y entradas personalizadas. Podés modificar la disposición de la barra la lateral de una entrada individual en la misma entrada."
+
+#: functions.php:284
+msgid "Home Page Layout"
+msgstr "Diseño de la página de inicio"
+
+#: functions.php:271
+msgid "Choose the layout of the slider for your site."
+msgstr "Elegí el diseño del slider para tu sitio."
+
+#: functions.php:250 functions.php:270
+msgid "Slider Layout"
+msgstr "Diseño del slider"
+
+#: functions.php:187
+msgid "Change the font size of your site."
+msgstr "Cambio el tamaño de letra de tu sitio"
+
+#: functions.php:110
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:109
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:91
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personalizar tipografía, imagen de encabezado e imagen de fondo"
+
+#: functions.php:305
+msgid "Choose the layout of the homepage for your site."
+msgstr "Elegí el diseño de la Página de Inicio para tu sitio."
+
+#: functions.php:237
+msgid "This is the layout for header."
+msgstr "Éste es el diseño del encabezado."
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:974
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/wordpress-themes/hello-fashion/"
+msgstr "https://blossomthemes.com/wordpress-themes/hello-fashion/"

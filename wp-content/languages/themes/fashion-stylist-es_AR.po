@@ -1,0 +1,117 @@
+# Translation of Themes - Fashion Stylist in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Fashion Stylist package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-08 15:36:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Fashion Stylist\n"
+
+#. Theme Name of the theme
+msgid "Fashion Stylist"
+msgstr "Fashion Stylist"
+
+#: functions.php:639
+msgid " Fashion Stylist | Developed By "
+msgstr "Fashion Stylist | Desarrollado por"
+
+#: functions.php:236
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:235
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:210
+msgid "Site Title Font Size"
+msgstr "Tamaño de fuente del título del sitio"
+
+#: functions.php:141
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Documentación: %1$sClic acá.%2$s"
+
+#: functions.php:139
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Demostración: %1$sClic acá.%2$s"
+
+#: functions.php:126
+msgid "Demo & Documentation"
+msgstr "Demo y Documentación"
+
+#: functions.php:641
+msgid "https://wordpress.org/"
+msgstr "https://es-ar.wordpress.org/"
+
+#: functions.php:641
+msgid " Powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: functions.php:375
+msgid "Choose the layout of the slider for your site."
+msgstr "Elegí el diseño del slider para tu sitio."
+
+#: functions.php:353 functions.php:374
+msgid "Slider Layout"
+msgstr "Diseño del slider"
+
+#: functions.php:338
+msgid "Choose the number of slides you want to display"
+msgstr "Elegí el número de diapositivas que querés mostrar"
+
+#: functions.php:337
+msgid "Number of Slides"
+msgstr "Número de diapositivas"
+
+#: functions.php:291 functions.php:312
+msgid "Home Page Layout"
+msgstr "Diseño de la página de inicio"
+
+#: functions.php:256 functions.php:277
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: functions.php:247
+msgid "Layout Settings"
+msgstr "Ajustes de diseño"
+
+#: functions.php:278
+msgid "This is the layout for header."
+msgstr "Este es el diseño del encabezado."
+
+#: functions.php:211
+msgid "Change the font size of your site title."
+msgstr "Cambia el tamaño del tipo de letra del título de tu sitio."
+
+#: functions.php:188
+msgid "Site title and tagline font."
+msgstr "Título del sitio y tipo de letra del lema."
+
+#: functions.php:187
+msgid "Site Title Font"
+msgstr "Tipo de letra del título del sitio"
+
+#: functions.php:451
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:313
+msgid "This is the layout for blog index page."
+msgstr "Este es el diseño de la página del índice del blog."
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:640
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/themes/fashion-stylist-free-wordpress-theme/"
+msgstr "https://blossomthemes.com/themes/fashion-stylist-free-wordpress-theme/"

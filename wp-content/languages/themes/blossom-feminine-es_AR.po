@@ -1,0 +1,258 @@
+# Translation of Themes - Blossom Feminine in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Blossom Feminine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-11 12:08:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Blossom Feminine\n"
+
+#. Theme Name of the theme
+msgid "Blossom Feminine"
+msgstr "Blossom Feminine"
+
+#: inc/template-functions.php:132
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/template-functions.php:129
+msgid "primary menu toggle button"
+msgstr "botón alternar el menú principal"
+
+#: inc/template-functions.php:85
+msgid "search toggle button"
+msgstr "botón alternar búsqueda"
+
+#: inc/template-functions.php:68 inc/template-functions.php:133
+msgid "Mobile"
+msgstr "Dispositivos móviles"
+
+#: inc/template-functions.php:59
+msgid "secondary menu toggle button"
+msgstr "botón alternar el menú secundario"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:112
+msgid "Deactivate "
+msgstr "Desactivar "
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:97
+msgid "Activate "
+msgstr "Activar "
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:93
+msgid "Install "
+msgstr "Instalar "
+
+#: inc/getting-started/tabs/link-panel.php:12
+#: inc/getting-started/tabs/support-panel.php:16
+msgid "With the Pro version, you can change the look and feel of your website in seconds. In just a few clicks, you can change the color and typography of your website. The premium version lets you have better control over the theme as it comes with more customization options. Not just that, the theme also has more sections and layout options as compared to the free version. The Pro version is multi-language compatible as well."
+msgstr "Con la versión Pro podés cambiar la apariencia y estilo de tu sitio web en segundos. En unos pocos clics, podés cambiar el color y tipografía de tu sitio web. La versión premium te permite tener un mejor control sobre el tema, ya que viene con más opciones de personalización. No solo eso, el tema también tiene más secciones y opciones de diseño comparado con la versión gratuita. La versión Pro también es compatible con varios idiomas."
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:18
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:10
+#: inc/getting-started/getting-started.php:145
+msgid "Useful Plugins"
+msgstr "Plugins útiles"
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:17
+msgid "HubSpot All-In-One Marketing - Forms, Popups, Live Chat"
+msgstr "HubSpot All-In-One Marketing - Formularios, Ventanas Emergentes, Chat en Vivo"
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:12
+msgid "Below is a list of useful plugins that will help you get the most out of Blossom Feminine."
+msgstr "A continuación vas a encontrar una lista de plugins útiles que te ayudarán a aprovechar Blossom Feminine al máximo."
+
+#: inc/customizer/general.php:644
+msgid "Enable to hide Comments."
+msgstr "Activar para ocultar comentarios."
+
+#: inc/customizer/general.php:643
+msgid "Hide Comments"
+msgstr "Ocultar comentarios"
+
+#: inc/template-functions.php:41
+msgid "Skip to Content"
+msgstr "Ir al contenido"
+
+#: inc/tgmpa/recommended-plugins.php:66
+msgid "Regenerate Thumbnails"
+msgstr "Regenerate Thumbnails"
+
+#: inc/getting-started/tabs/link-panel.php:30
+msgid "Submit Here"
+msgstr "Enviar acá"
+
+#: inc/getting-started/tabs/link-panel.php:28
+msgid "If you would like to get your website shared and featured, please submit your website by clicking the link below."
+msgstr "Si te gustaría que tu web sea compartida y destacada, por favor, enviá tu sitio web haciendo clic en el enlace de abajo."
+
+#: inc/getting-started/tabs/link-panel.php:27
+msgid "We regularly share and feature websites made using our themes on our social media accounts( Facebook, Instagram, Twitter and Pinterest )."
+msgstr "Nosotros regularmente compartimos y destacamos sitios web creados con nuestros temas en nuestras cuentas de redes sociales (Facebook, Instagram, Twitter y Pinterest)."
+
+#: inc/getting-started/tabs/link-panel.php:26
+#: inc/getting-started/tabs/link-panel.php:30
+msgid "Submit your site for social share"
+msgstr "Enviá tu sitio para que sea compartido en redes sociales"
+
+#: inc/template-functions.php:1086
+msgid "Blossom Feminine | Developed By "
+msgstr " Blossom Feminine | Desarrollado por"
+
+#: inc/custom-functions.php:515
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: inc/custom-functions.php:514
+msgid "Go to the getting started."
+msgstr "Ir a los primeros pasos."
+
+#: inc/custom-functions.php:513
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "Ahora, %1$s está instalado y listo para ser usado. Hacé clic a continuación para ver la documentación del tema, los plugins para instalar y otros detalles para comenzar."
+
+#: inc/custom-functions.php:512
+msgid "Congratulations!"
+msgstr "¡Felicitaciones!"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/getting-started/tabs/support-panel.php:47
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Podés cambiar el texto del copyright yendo a  %1$sApariencia > Personalizar > Ajustes del pie de página%2$s. Sin embargo, si querés ocultar el texto de acreditación del autor, por favor %3$sactualizá a la versión Pro%4$s."
+
+#: inc/getting-started/tabs/plugins-panel.php:53
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: inc/getting-started/getting-started.php:41
+msgid "Activating "
+msgstr "Activando"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:112
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/getting-started/tabs/plugins-panel.php:42
+msgid "Free Plugins"
+msgstr "Plugins gratuitos"
+
+#: inc/getting-started/tabs/support-panel.php:52
+msgid "Why is my theme not working well?"
+msgstr "¿Por qué mi tema no funciona bien?"
+
+#: inc/getting-started/tabs/support-panel.php:25
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr "¿Cuáles son las ventajas de actualizar a la versión Premium?"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Ver la versión Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "View Premium Version"
+msgstr "Ver la versión Premium"
+
+#: inc/getting-started/tabs/support-panel.php:33
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Actualizando a la versión Pro, ¿voy a perder mis cambios?"
+
+#: inc/getting-started/tabs/support-panel.php:27
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr "Con la versión Premium, además de las características adicionales y actualizaciones frecuentes, obtenés soporte premium. Si te encontrás con cualquier problema en tu tema, vas a recibir ayuda mucho más rápido en comparación con el soporte gratuito."
+
+#: inc/getting-started/tabs/link-panel.php:18
+#: inc/getting-started/tabs/link-panel.php:22
+msgid "Visit the Knowledge Base"
+msgstr "Visitá la documentación"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read More About the Pro Theme"
+msgstr "Leé más acerca del tema Pro"
+
+#: inc/getting-started/tabs/plugins-panel.php:43
+msgid "These Free Plugins might be handy for you."
+msgstr "Estos plugins gratuitos pueden ser útiles para vos."
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:117
+msgid "Jetpack Portfolio"
+msgstr "Portafolio Jetpack"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#: inc/getting-started/getting-started.php:153
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "FAQs y soporte"
+
+#: inc/getting-started/tabs/plugins-panel.php:10
+#: inc/getting-started/getting-started.php:120
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/getting-started/getting-started.php:107
+msgid "Getting started with %1$s v%2$s"
+msgstr "Comenzando con %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:109
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "A continuación vas a encontrar todo lo que necesitás para los primeros pasos con %1$s."
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Below is a list of recommended plugins to install that will help you get the most out of %1$s. Although each plugin is optional, it is recommended that you at least install the BlossomThemes Toolkit, BlossomThemes Email Newsletter & BlossomThemes Social Feed to create a website similar to the %1$s demo."
+msgstr "A continuación hay una lista de plugins recomendados para instalar que te van a permitir aprovechar al máximo %1$s. Aunque cada plugin es opcional recomendamos que, por lo menos, instalés BlossomThemes Toolkit,  BlossomThemes Social Email Newsletter y BlossomThemes Social Feed para crear una web similar a la de la demo %1$s ."
+
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:18
+#: inc/getting-started/getting-started.php:128
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/customizer/general.php:927
+msgid "Shop Page Description"
+msgstr "Descripción de la página de la tienda"
+
+#: inc/customizer/general.php:905
+msgid "Shop Settings"
+msgstr "Ajustes de la tienda"
+
+#: inc/extras.php:287
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">dice:</span>"
+
+#: template-parts/content-none.php:17
+msgid "Add More Posts"
+msgstr "Agregar más entradas"
+
+#: inc/woocommerce-functions.php:105 inc/woocommerce-functions.php:122
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de compras"
